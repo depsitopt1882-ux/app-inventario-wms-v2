@@ -1,0 +1,10 @@
+{
+  "appId": "com.inventario.app",
+  "appName": "Inventario App",
+  "webDir": "www",
+  "server": {
+    "url": "https://script.google.com/macros/s/AKfycbx-m0RMhifCmQKjTxgl5Zu9fqNJjgmpBru3m0kFuC3EVT61R_H5BGm79PBR9szA57qGAw/exec",
+    "cleartext": true,
+    "androidScheme": "https"
+  }
+}
